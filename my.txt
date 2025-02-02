@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentines</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+    <h1>Valentines Day</h1>
+    <p>Will you be my ValenDonald's?</p>
+    <img src="giphy.gif" height="300px" width="300px">
+    <div class="card">
+        <p>McDonald's.</p>
+    </div>
+    <button class="yes" onclick="open('https://www.youtube.com/watch?v=JqIHlDVqUTw')">Yes</button>
+    <button class="no" onclick="open('https://www.youtube.com/watch?v=wSgChEB7QIs')">No</button>
+</body>
+</html>
